@@ -109,7 +109,7 @@ phishing-detection-app/
 
 ## 🔗 Related Links
 
-- **Google Collab Notebook**: [Website URL Phishing Detection](https://www.kaggle.com/code/duygujones/website-phishing-detection-ml-project)
+- **Google Collab Notebook**: [Website URL Phishing Detection](https://colab.research.google.com/drive/1TEtU_Cvvprfn7dJUu4eInAbvwn4NE_UG?usp=sharing)
 - **GitHub Repository**: [Phishing Detection ML Deploy FastAPI, Docker](https://github.com/Duygu-Jones/Phishing_Detection_ML_FastAPI_Docker/tree/main)
 
 
@@ -118,8 +118,8 @@ phishing-detection-app/
 I'm Abdulaziz Rajab, a Data Scientist with a curiosity for learning and development in the fields of Machine Learning and Generative AI.
 
 If you'd like to learn more about me and my work:
-- **LinkedIn**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
+- **LinkedIn**: [Linkedin/abdulaziz-mohammed-33b35a8b](https://www.linkedin.com/in/abdulaziz-mohammed-33b35a8b/) https://www.linkedin.com/in/abdulaziz-mohammed-33b35a8b/
+- **GitHub**: [github.com/abdulmoha786](https://github.com/abdulmoha786/)
 
 Feel free to connect! I’d love to hear from you! 😊
 
